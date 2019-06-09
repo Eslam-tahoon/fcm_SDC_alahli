@@ -2,5 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>688976859813-n4gim6tdjtn8f8ds4ul23v5iveibojui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.688976859813-n4gim6tdjtn8f8ds4ul23v5iveibojui</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZYsAd1WwxGp1JS6M1Kpwf8XipoKPA9ds</string>
+	<key>GCM_SENDER_ID</key>
+	<string>688976859813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dl.basamh</string>
+	<key>PROJECT_ID</key>
+	<string>basamh-sdc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>basamh-sdc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:688976859813:ios:ae381fcd7ee4ac22</string>
+	<key>DATABASE_URL</key>
+	<string>https://basamh-sdc.firebaseio.com</string>
 </dict>
 </plist>
